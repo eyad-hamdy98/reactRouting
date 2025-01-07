@@ -19,7 +19,7 @@ export default function Navbar() {
     <div className='background p-5 '>
       <div className="container d-flex justify-content-between">
       <div className=''>
-        <NavLink className='text-white fw-bold fa-2xl text-uppercase text-decoration-none' to="/">Start Framework</NavLink>
+        <NavLink className='text-white fw-bold fa-2xl text-uppercase text-decoration-none' to="">Start Framework</NavLink>
       </div>
       <ul className='nav d-flex gap-5 list-unstyled'>
         <li><NavLink className='link text-white fw-bold text-decoration-none fs-5 text-uppercase' to="About">About</NavLink></li>

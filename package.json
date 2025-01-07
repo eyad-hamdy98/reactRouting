@@ -2,7 +2,7 @@
   "name": "routing",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://eyad-hamdy98.github.io/Routing",
+  "homepage": "https://eyad-hamdy98.github.io/reactRouting",
   "type": "module",
   "scripts": {
     "dev": "vite",

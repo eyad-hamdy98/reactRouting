@@ -46,9 +46,9 @@ export default function Footer() {
       </div>
     </div>
     </div>
-    <div className='bg-Copyright position-absolute bottom-0 start-0 end-0'>
+  </div>
+    <div className='bg-Copyright position-absolute start-0 end-0'>
       <p className='p-3 text-white'>Copyright © Your Website 2021</p>
     </div>
-  </div>
   </>
 }
